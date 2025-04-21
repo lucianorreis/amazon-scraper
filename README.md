@@ -23,7 +23,7 @@ amazon-scraper/
 
 ## Setting Up and Running
 
-1. **Clone this repository** (if applicable).
+1. **Clone this repository**
 2. **Navigate to the `backend`** folder and follow the instructions in `README.md` to install the dependencies and start the backend server.
 3. **Navigate to the `frontend`** folder and follow the instructions in `README.md` to install the dependencies and start the frontend development server.
 4. **Open the frontend address** in your web browser (usually `http://localhost:5173`).

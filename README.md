@@ -3,18 +3,19 @@
 This project consists of a frontend and a backend to perform web scraping on Amazon, searching for products on the first page of results for a given keyword.
 
 ## Project Structure
-amazon-scraper/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── README.md
-└── frontend/
-├── index.html
-├── main.js
-├── style.css
-├── vite.config.js
-├── package.json
-└── README.md
+
+amazon-scraper/                           
+├── backend/             
+│   ├── server.js         
+│   ├── package.json             
+│   └── README.md            
+└── frontend/                 
+├── index.html                         
+├── main.js                   
+├── style.css                 
+├── vite.config.js                   
+├── package.json               
+└── README.md                 
 
 ## Prerequisites
 
